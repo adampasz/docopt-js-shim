@@ -31,5 +31,5 @@ console.log(docopt.fromComment(doc));
 
 Doc Strings
 ----------
-Cavieat: Comments will probably be removed by minification.  If you need to minify your code, use docopt.fromString() instead.
+Caveat: Comments will probably be removed by minification.  If you need to minify your code, use docopt.fromString() instead.
 
