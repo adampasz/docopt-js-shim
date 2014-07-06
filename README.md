@@ -11,7 +11,7 @@ Usage
 ---------
 
 ```
-npm install --save-dev git+https://github.com/adampasz/docopt-js-shim.git
+npm install git+https://github.com/adampasz/docopt-js-shim.git
 ```
 
 Here's the quick_example.coffee ported to the js-shim:

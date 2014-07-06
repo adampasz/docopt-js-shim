@@ -22,4 +22,5 @@ function fromString(s) {
 
 module.exports.fromString = fromString;
 module.exports.fromComment = fromComment;
+module.exports.lib = lib; //export the underlying library to enable custom functionality
 
