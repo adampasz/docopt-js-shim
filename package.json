@@ -1,0 +1,27 @@
+{
+  "name": "docopt-js-shim",
+  "preferGlobal": false,
+  "version": "0.0.1",
+  "author": "adampasz <adampasz@yahoo.com>",
+  "description": "Simple shim to make it easier to use docopt.coffee directly with javascript",
+  "contributors": [
+    {}
+  ],
+  "main": "./index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adampasz/docopt-js-shim.git"
+  },
+  "keywords": [
+    "args",
+    "command"
+  ],
+  "dependencies": {
+    "docopt": "~0.4.0"
+  },
+  "bundledDependencies": [],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
